@@ -1,4 +1,4 @@
-# [Material Kit](https://demos.creative-tim.com/material-kit/index.html) [![Tweet]
+# [Material Kit](https://demos.creative-tim.com/material-kit/index.html)
 
 <br />
 
